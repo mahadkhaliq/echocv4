@@ -1,0 +1,4 @@
+direction	gls_0	gls_25	gls_50	gls_75	gls_100	nomeas	nostudies	badthresh_L	badthrsh_R
+left	nan	nan	nan	nan	nan	nan	0	0	0.6	0.6
+right	nan	nan	nan	nan	nan	nan	0	0	0.6	0.6
+both	nan	nan	nan	nan	nan	nan	0	0	0.6	0.6
